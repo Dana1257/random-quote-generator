@@ -1,4 +1,4 @@
-var  myQuotes = [
+let myQuotes = [
 "I am free to do as I please as long as I don’t break the law or hurt another person.", 
 "I have every right to believe what I want to believe and live the way that I want to live, but I have a responsibility to respect those who have different beliefs than me and/or live differently than me.", 
 "What’s 100% comfortable for one person can be 100% uncomfortable for someone else.",

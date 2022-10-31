@@ -9,9 +9,11 @@ let myQuotes = [
 "I respect ideas I don’t agree with."
 ]
 
+function randomQuote(){
+    let randomNumber = Math.floor(Math.random() * (myQuotes.length));
 
-
-
+document.getElementById("quoteDisplay").innerHTML = myQuotes[randomNumber];
+}
 
 
 

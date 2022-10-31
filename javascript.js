@@ -6,7 +6,8 @@ let myQuotes = [
 "It’s a pleasure to be kind to others.",
 "What’s perfectly right for one person can be perfectly wrong for someone else.",
 "I don’t criticize people on their disabilities, I look up to them because of their abilities.",
-"I respect ideas I don’t agree with."
+"I respect ideas I don’t agree with.",
+"The biggest gift you could ever give someone is to accept them for who they are."
 ]
 
 function randomQuote(){

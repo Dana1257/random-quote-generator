@@ -7,7 +7,8 @@ let myQuotes = [
 "What’s perfectly right for one person can be perfectly wrong for someone else.",
 "I don’t criticize people on their disabilities, I look up to them because of their abilities.",
 "I respect ideas I don’t agree with.",
-"The biggest gift you could ever give someone is to accept them for who they are."
+"The biggest gift you could ever give someone is to accept them for who they are.",
+"It’s important to be stubborn when it comes to your own happiness, but when your stubbornness affects others, it is important to show compassion and consideration and minimize the damage as much as possible."
 ]
 
 function randomQuote(){

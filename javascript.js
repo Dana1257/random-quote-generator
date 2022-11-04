@@ -9,7 +9,7 @@ let myQuotes = [
 "I respect ideas I don’t agree with.",
 "The biggest gift you could ever give someone is to accept them for who they are.",
 "It’s important to be stubborn when it comes to your own happiness, but when your stubbornness affects others, it is important to show compassion and consideration and minimize the damage as much as possible.",
-"My Strength is your weakness, your strength is my weakness. Nobody’s perfect, so let’s just help each other out.",
+"My strength is your weakness, your strength is my weakness. Nobody’s perfect, so let’s just help each other out.",
 "Who am I to judge other people’s experiences.",
 "Imagine a world with no putdowns, judgements, and harsh criticisms. A world where you can be free to be exactly who you are."
 ]

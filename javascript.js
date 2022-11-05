@@ -11,7 +11,9 @@ let myQuotes = [
 "It’s important to be stubborn when it comes to your own happiness, but when your stubbornness affects others, it is important to show compassion and consideration and minimize the damage as much as possible.",
 "My strength is your weakness, your strength is my weakness. Nobody’s perfect, so let’s just help each other out.",
 "Who am I to judge other people’s experiences.",
-"Imagine a world with no putdowns, judgements, and harsh criticisms. A world where you can be free to be exactly who you are."
+"Imagine a world with no putdowns, judgements, and harsh criticisms. A world where you can be free to be exactly who you are.",
+"Accept people’s differences because diversity helps make the world a better place.",
+"Don’t look down on people just because they don’t share the same beliefs as you."
 ]
 
 function randomQuote(){
@@ -19,6 +21,7 @@ function randomQuote(){
 
 document.getElementById("quoteDisplay").innerHTML = myQuotes[randomNumber];
 }
+
 
 
 

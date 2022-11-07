@@ -3,6 +3,7 @@ body{
     background-size:auto;
     background-repeat:no-repeat;
     background-position:center center;
+    -webkit-appearance:none;
 }
 
 h1{

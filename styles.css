@@ -28,6 +28,3 @@ button{
     font-size:1.5rem;
 }
 
-button, #quoteDisplay{
-    -webkit-appearance:none;
-}

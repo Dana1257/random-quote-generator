@@ -34,7 +34,7 @@ button{
 @media(min-width:540px){
 
     body{
-        background:url(view_2.jpg);
+        background:url(view_2.png);
     }
 
     #quoteDisplay{
@@ -45,7 +45,7 @@ button{
 @media(min-width:768px){
 
     body{
-    background-size:1500px;
+    background-size:100%;
     }
 
     h1{

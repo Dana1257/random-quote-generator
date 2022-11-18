@@ -24,6 +24,7 @@ button{
     border:solid black 0.19rem;
     font-weight:900;
     color:black;
+    cursor: pointer;
 }
 
 #quoteDisplay{

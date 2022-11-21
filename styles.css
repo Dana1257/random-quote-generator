@@ -49,7 +49,7 @@ button{
     }
 
     h1{
-        font-size:3.5rem;
+        font-size:4rem;
     }
 
     #quoteDisplay{
@@ -62,4 +62,12 @@ button{
     border-radius:3rem;
     font-size:2rem;
     }
+}
+
+@media(min-width:1025px){
+
+
+
+
+
 }

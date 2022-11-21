@@ -37,8 +37,17 @@ button{
         background:url(view_2.png);
     }
 
+    h1{
+        font-size:3.5rem;
+    }
+
     #quoteDisplay{
         font-size:2.3rem;
+    }
+    
+    button{
+        font-size:2rem;
+        padding:0.5rem;
     }
 }
 
@@ -49,25 +58,42 @@ button{
     }
 
     h1{
-        font-size:4rem;
+        font-size:4.9rem;
     }
 
     #quoteDisplay{
-    font-size:3rem;
+    font-size:4.5rem;
     }
 
     button{
     padding:1.5rem;
     border:solid black 0.4rem;
     border-radius:3rem;
-    font-size:2rem;
+    font-size:3rem;
     }
 }
 
-@media(min-width:1025px){
+@media(min-width:1024px){
+    h1{
+        font-size:5.4rem;
+    }
+    
+    #quoteDisplay{
+        font-size:4.7rem;
+    }
 
+    button{
+        font-size:4rem;
+        border-radius:4rem;
+    }
+}
 
+@media(min-width:1201px){
+    h1{
+        font-size:6.8rem;
+    }
 
-
-
+    #quoteDisplay{
+        font-size:5rem;
+    }
 }

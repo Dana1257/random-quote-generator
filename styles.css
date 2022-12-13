@@ -31,6 +31,12 @@ button{
     font-size:2rem;
 }
 
+@media(min-width:279px){
+    #quoteDisplay{
+        font-size: 1.5rem;
+    }
+}
+
 @media(min-width:540px){
 
     body{

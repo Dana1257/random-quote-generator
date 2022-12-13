@@ -28,7 +28,7 @@ button{
 }
 
 #quoteDisplay{
-    font-size:1.5rem;
+    font-size:2rem;
 }
 
 @media(min-width:540px){
@@ -81,7 +81,7 @@ button{
     }
     
     #quoteDisplay{
-        font-size:3rem;
+        font-size:3.5rem;
     }
 
     button{

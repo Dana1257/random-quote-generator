@@ -13,7 +13,10 @@ let myQuotes = [
 "Who am I to judge other people’s experiences.",
 "Imagine a world with no putdowns, judgements, and harsh criticisms. A world where you can be free to be exactly who you are.",
 "Accept people’s differences because diversity helps make the world a better place.",
-"Don’t look down on people just because they don’t share the same beliefs as you."
+"Don’t look down on people just because they don’t share the same beliefs as you.",
+"Living in harmony with those who are different from us, it’s what we should all aim for.",
+"I don’t want to change those who are different from me, I want to live in harmony with them.",
+"I am not picky about who I let into my life, I am picky about who I keep in my life."
 ]
 
 function randomQuote(){
@@ -23,6 +26,11 @@ document.getElementById("quoteDisplay").innerHTML = myQuotes[randomNumber];
 }
 
 
+
+
+
+
+ 
 
 
 

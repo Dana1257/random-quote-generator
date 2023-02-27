@@ -18,7 +18,7 @@ let myQuotes = [
 "I don’t want to change those who are different from me, I want to live in harmony with them.",
 "I am not picky about who I let into my life, I am picky about who I keep in my life.",
 "I like to bring people up, not down.",
-"What’s no big deal to me, can be a huge deal to someone else"
+"What’s no big deal to me, can be a huge deal to someone else."
 ]
 
 function randomQuote(){

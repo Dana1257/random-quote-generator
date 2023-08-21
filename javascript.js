@@ -18,7 +18,11 @@ let myQuotes = [
 "I don’t want to change those who are different from me, I want to live in harmony with them.",
 "I am not picky about who I let into my life, I am picky about who I keep in my life.",
 "I like to bring people up, not down.",
-"What’s no big deal to me, can be a huge deal to someone else."
+"What’s no big deal to me, can be a huge deal to someone else.",
+"I don’t put my happiness in other people’s hands.",
+"I like to bring people up, not down.",
+"I am not looking for someone that can make me happy, I am looking for someone that I can be happy with.",
+"If I am going to mess up with other people’s mental health it’s going to be in a positive way."
 ]
 
 function randomQuote(){
@@ -26,6 +30,15 @@ function randomQuote(){
 
 document.getElementById("quoteDisplay").innerHTML = myQuotes[randomNumber];
 }
+
+
+
+  
+
+
+
+
+
 
 
 

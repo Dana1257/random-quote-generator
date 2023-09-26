@@ -22,7 +22,8 @@ let myQuotes = [
 "I don’t put my happiness in other people’s hands.",
 "I like to bring people up, not down.",
 "I am not looking for someone that can make me happy, I am looking for someone that I can be happy with.",
-"If I am going to mess up with other people’s mental health it’s going to be in a positive way."
+"If I am going to mess up with other people’s mental health it’s going to be in a positive way.",
+"Sometimes we need to inconvenience ourselves for someone else’s comfort."
 ]
 
 function randomQuote(){
